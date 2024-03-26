@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daria, I love soups a lot.
-- 🌏 But my current interest is earth observation data science hehe.
+- 🌏 But my current interest is in earth observation data science hehe.
 - And agriculture. And combining them. Cows are also really cute.
 - Actually I am a software engineer but my childhood dream was to become an astronomer. 🪐
 
