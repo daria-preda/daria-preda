@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Daria, I love soups a lot.
-- 🌏 But my current interest is in earth observation data science. It's a sort of soup as well, right?
+- 👋 Hi, I’m Daria, and the western world is suffering of lack of soup.
+- 🌏 Besides this, my current interest is in earth observation data science.
 
 
 <!---
