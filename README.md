@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daria, and the western world is suffering of lack of soup.
+- 👋 Hi, I’m Daria, and the western world is suffering of a lack of soup.
 - 🌏 Besides this, my current interest is in earth observation data science.
 
 
